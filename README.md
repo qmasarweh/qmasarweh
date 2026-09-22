@@ -1,6 +1,6 @@
 # Qusai Masarweh
 
-**Cybersecurity & AI Engineering Student**
+**Cybersecurity & AI Engineer**
 
 I work at the intersection of offensive security and applied machine intelligence — hardening systems, breaking them ethically, and building with local, private AI. My focus is on understanding how things work at the hardware level and how to protect them at every layer above it.
 
